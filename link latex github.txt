@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 https://github.com/DamianKB1/damiantex
+=======
+https://github.com/DamianKB1/damiantex
+>>>>>>> origin/master
