@@ -1,0 +1,22 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+\APACciteatitle {Levensverwachting; geslacht, leeftijd (per jaar en periode van
+  vijf jaren}}{%
+\APACciteatitle {Levensverwachting; geslacht, leeftijd (per jaar en periode van
+  vijf jaren}}{%
+{\protect \APACyear {2016}}%
+}]{%
+1}
+\APACinsertmetastar {%
+1}%
+{\BBOQ}\APACrefatitle {Levensverwachting; geslacht, leeftijd (per jaar en
+  periode van vijf jaren} {Levensverwachting; geslacht, leeftijd (per jaar en
+  periode van vijf jaren}.{\BBCQ}
+\newblock
+\APACrefYearMonthDay{2016}{}{}.
+\newblock
+\APACaddressPublisher{}{CBS}.
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}
